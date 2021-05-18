@@ -53,8 +53,18 @@ To consume the API
 
 
 # Additional info:
-Necessary software: JDK 11 with JAVA_HOME, visual studio with python and c development, node.js(for elastic dump), elasticsearch-6.8.5
+Necessary software: 
+
+JDK 11 with JAVA_HOME
+
+visual studio with python and c development 
+
+node.js(for elastic dump)
+
+elasticsearch-6.8.5
+
 Need pytorch 1.4.0:
+
 pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
 # Acknowledgement:
