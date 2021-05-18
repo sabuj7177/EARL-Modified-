@@ -1,0 +1,9 @@
+data/blooms/
+data/elasticdumpdata/
+data/fasttext-wiki-news-subwords-300
+data/lexvec.commoncrawl.300d.W.pos.vectors
+.idea/
+log/
+scripts/__pycache__/
+scripts/senna/
+venv/
