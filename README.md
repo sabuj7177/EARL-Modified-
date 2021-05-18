@@ -67,6 +67,7 @@ Need pytorch 1.4.0:
 
 pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
+For running elastic search: Go to 'C:\elasticsearch-6.8.5\bin' with command prompt and type 'elasticsearch' and press enter.
 # Acknowledgement:
 This repo is from https://github.com/AskNowQA/EARL
 
